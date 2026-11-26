@@ -1,0 +1,16 @@
+# ninja log v5
+2	173	0	CMakeFiles/print_build_info	eb850ec302fa1a72
+2	173	0	C:/Users/DUONG/Desktop/DA2_Vitis_Lab/da2_final_platform/zynq_fsbl/build/CMakeFiles/print_build_info	eb850ec302fa1a72
+173	293	8143638037974204	CMakeFiles/fsbl.elf.dir/fsbl_handoff.S.obj	b50b79b6053a1005
+203	398	8143638039040279	CMakeFiles/fsbl.elf.dir/md5.c.obj	96911206a6d160db
+180	425	8143638039138214	CMakeFiles/fsbl.elf.dir/fsbl_hooks.c.obj	2a9c651d05891b24
+187	429	8143638039351218	CMakeFiles/fsbl.elf.dir/image_mover.c.obj	c6fae9f3160192bb
+212	432	8143638039388709	CMakeFiles/fsbl.elf.dir/nand.c.obj	b12f33d43d236270
+195	446	8143638039593645	CMakeFiles/fsbl.elf.dir/main.c.obj	daef89ebdb29cb07
+252	451	8143638039653997	CMakeFiles/fsbl.elf.dir/rsa.c.obj	bd22c981f7586eec
+242	458	8143638039733457	CMakeFiles/fsbl.elf.dir/qspi.c.obj	9fc482adbbb14ed3
+222	460	8143638039733457	CMakeFiles/fsbl.elf.dir/nor.c.obj	732ac0b9304bc2d6
+232	462	8143638039743575	CMakeFiles/fsbl.elf.dir/pcap.c.obj	22d7cca871db9a51
+263	479	8143638039920665	CMakeFiles/fsbl.elf.dir/sd.c.obj	f9bc7e8a2d1d5e7f
+274	506	8143638040208049	CMakeFiles/fsbl.elf.dir/ps7_init.c.obj	8738c00269c6122d
+506	813	8143638041846034	fsbl.elf	2ca33b6b9ff24f39

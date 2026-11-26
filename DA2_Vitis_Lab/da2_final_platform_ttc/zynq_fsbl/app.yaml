@@ -1,0 +1,4 @@
+domain_path: C:\Users\DUONG\Desktop\DA2_Vitis_Lab\da2_final_platform_ttc\zynq_fsbl\zynq_fsbl_bsp
+app_src_dir: D:\AMDDesignTools\2025.2\Vitis\data\embeddedsw\lib\sw_apps\zynq_fsbl
+template: zynq_fsbl
+lang: c
