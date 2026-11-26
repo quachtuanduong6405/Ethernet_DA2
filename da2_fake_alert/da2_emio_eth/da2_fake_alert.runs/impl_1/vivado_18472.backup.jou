@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Wed Oct 14 11:13:18 2026
+# Process ID         : 18472
+# Current directory  : C:/Users/DUONG/Desktop/da2_fake_alert/da2_emio_eth/da2_fake_alert.runs/impl_1
+# Command line       : vivado.exe -log design_1_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source design_1_wrapper.tcl -notrace
+# Log file           : C:/Users/DUONG/Desktop/da2_fake_alert/da2_emio_eth/da2_fake_alert.runs/impl_1/design_1_wrapper.vdi
+# Journal file       : C:/Users/DUONG/Desktop/da2_fake_alert/da2_emio_eth/da2_fake_alert.runs/impl_1\vivado.jou
+# Running On         : LAPTOP-H65A9UPI
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26300
+# Processor Detail   : AMD Ryzen 5 6600HS Creator Edition             
+# CPU Frequency      : 3294 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 16312 MB
+# Swap memory        : 2952 MB
+# Total Virtual      : 19265 MB
+# Available Virtual  : 4709 MB
+#-----------------------------------------------------------
+source design_1_wrapper.tcl -notrace
