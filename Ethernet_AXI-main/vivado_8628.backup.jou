@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Fri Sep 18 11:33:30 2026
+# Process ID: 8628
+# Current directory: C:/Users/DUONG/Desktop/DoAn2/Ethernet_AXI-main/Ethernet_AXI-main
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13216 C:\Users\DUONG\Desktop\DoAn2\Ethernet_AXI-main\Ethernet_AXI-main\eth_axi_ip.xpr
+# Log file: C:/Users/DUONG/Desktop/DoAn2/Ethernet_AXI-main/Ethernet_AXI-main/vivado.log
+# Journal file: C:/Users/DUONG/Desktop/DoAn2/Ethernet_AXI-main/Ethernet_AXI-main\vivado.jou
+# Running On: LAPTOP-H65A9UPI, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 12, Host memory: 16312 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/DUONG/Desktop/DoAn2/Ethernet_AXI-main/Ethernet_AXI-main/eth_axi_ip.xpr
+update_compile_order -fileset sources_1
+save_project_as Ethernet_Example C:/Users/DUONG/Desktop/DoAn2/Ethernet_Example -force
+export_ip_user_files -of_objects  [get_files C:/Users/DUONG/Desktop/DoAn2/Ethernet_AXI-main/Ethernet_AXI-main/eth_axi_ip.srcs/sources_1/imports/DoAn1_AXI/arp_rxd.v] -no_script -reset -force -quiet
+remove_files  C:/Users/DUONG/Desktop/DoAn2/Ethernet_AXI-main/Ethernet_AXI-main/eth_axi_ip.srcs/sources_1/imports/DoAn1_AXI/arp_rxd.v
+add_files -norecurse C:/Users/DUONG/Desktop/DoAn2/Ethernet_AXI-main/Ethernet_AXI-main/arp_rxd.v
+update_compile_order -fileset sources_1
